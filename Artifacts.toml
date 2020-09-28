@@ -1,0 +1,115 @@
+[[CyrusSASL]]
+arch = "aarch64"
+git-tree-sha1 = "989b406cbed9d05850f34ea90a92a98f0df6d97b"
+libc = "glibc"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "7a4aa5c2be659beee5094bbbb7ce45f070d6dc2388e873448792960a361d0411"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.aarch64-linux-gnu.tar.gz"
+[[CyrusSASL]]
+arch = "aarch64"
+git-tree-sha1 = "cdcd77d75043b5b90f5e1aafe25d9f6ae16477c5"
+libc = "musl"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "198a8b5e49fc0e5dec0cac6138ad1e81ad161d620fc88719363d45017c7076fe"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.aarch64-linux-musl.tar.gz"
+[[CyrusSASL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "353f631f39f9bf0dc5b65f04ef8cc45cf2178f77"
+libc = "glibc"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "29064197a420bedfe96aec16ffa28fbb2df04f44180bc91b21b178aaf0921a1e"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.armv7l-linux-gnueabihf.tar.gz"
+[[CyrusSASL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "60aa3fbb575dd3f6d3f6fb1cd51442c26be0bb7c"
+libc = "musl"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "bd18c8cc70b53d336bf6dc1b796e1de2edc15cd144c91b73fa4d4c35dca2dcb5"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.armv7l-linux-musleabihf.tar.gz"
+[[CyrusSASL]]
+arch = "i686"
+git-tree-sha1 = "bfe86a78b33a46efec03f601429068297cb2860c"
+libc = "glibc"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "9f43367a666349456bdebc83e82f0981916d75ce8a3212d3eef5a96aa788e292"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.i686-linux-gnu.tar.gz"
+[[CyrusSASL]]
+arch = "i686"
+git-tree-sha1 = "21c1c920cb56028b672ecd5afedaef7db825e75c"
+libc = "musl"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "8b6bba6ed85dfd9f52b67b361023f2a83964eba42e472b94c5ebbe1093d73a87"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.i686-linux-musl.tar.gz"
+[[CyrusSASL]]
+arch = "i686"
+git-tree-sha1 = "2c13c56bb3ff4ea526e7e1cdb5630dc411f7be88"
+os = "windows"
+
+    [[CyrusSASL.download]]
+    sha256 = "9d7e73c2dbc1f9b0d764c4e077ae68a20748274ac926321762944b938e3dd847"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.i686-w64-mingw32.tar.gz"
+[[CyrusSASL]]
+arch = "powerpc64le"
+git-tree-sha1 = "7b3468559e6de2baf0ceda6e41bc2c301ff67915"
+libc = "glibc"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "f64a47b64682ad91d7d392be2b50284b7cbb32365715e0fa728335b953f6dae1"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.powerpc64le-linux-gnu.tar.gz"
+[[CyrusSASL]]
+arch = "x86_64"
+git-tree-sha1 = "44e0cd5e743ea4ee4d1fc2dc325762919dbb9b78"
+os = "macos"
+
+    [[CyrusSASL.download]]
+    sha256 = "10177df24e668a568f0b659cc189ec9ac006a1ec4c15b33ec8537f22e6aceb6f"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.x86_64-apple-darwin.tar.gz"
+[[CyrusSASL]]
+arch = "x86_64"
+git-tree-sha1 = "255a569d0297263e5f4e15362fa5675ae1700514"
+libc = "glibc"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "c689a0109b47dde6b83a32a7ed00980fdc19f4d872a072015c4d8568b51c5764"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.x86_64-linux-gnu.tar.gz"
+[[CyrusSASL]]
+arch = "x86_64"
+git-tree-sha1 = "22f6f48d1341f4ceca87e25a03659629402c09f1"
+libc = "musl"
+os = "linux"
+
+    [[CyrusSASL.download]]
+    sha256 = "205a6a3f47eb7b8c015dccc26c20e8afdbde728b55c9a8fce7c923ac152996f6"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.x86_64-linux-musl.tar.gz"
+[[CyrusSASL]]
+arch = "x86_64"
+git-tree-sha1 = "66f75e096dc883691673d48eb06bf3c6adfffe4a"
+os = "freebsd"
+
+    [[CyrusSASL.download]]
+    sha256 = "5b4cf0a00dc17d01cbdea1bcde5d3ac685551e7645658c691847200f91798ed7"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.x86_64-unknown-freebsd.tar.gz"
+[[CyrusSASL]]
+arch = "x86_64"
+git-tree-sha1 = "ac1a4be961a91eb0e57cc6e71ae08478d09b08eb"
+os = "windows"
+
+    [[CyrusSASL.download]]
+    sha256 = "796b4a550633b1368d25f1324e77cfc31e5c9b9b0364305fa5e95fd106838d26"
+    url = "https://github.com/JuliaBinaryWrappers/CyrusSASL_jll.jl/releases/download/CyrusSASL-v2.1.27+0/CyrusSASL.v2.1.27.x86_64-w64-mingw32.tar.gz"
